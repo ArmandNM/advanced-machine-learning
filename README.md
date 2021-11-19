@@ -1,6 +1,9 @@
 # advanced-machine-learning
 Theoretical analysis of Machine Learning algorithms. Assignments from AI master at University of Bucharest.
 
+> ::notebook_with_decorative_cover:: *LaTeX is not supported in GitHub's markdown files: For better formatting, jump to my PDF solutions*.
+
+
 ### Assignment 1
 
 Check my solution is [here](AML__Assignment_1.pdf).
